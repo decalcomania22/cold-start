@@ -1,0 +1,1036 @@
+{
+  "people": [
+    {
+      "id": "P01",
+      "circle": "spouse",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P02",
+      "circle": "child",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P03",
+      "circle": "child",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P04",
+      "circle": "parent",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P05",
+      "circle": "parent",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P06",
+      "circle": "in-law",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P07",
+      "circle": "sibling",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P08",
+      "circle": "in-law",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P09",
+      "circle": "relative",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P10",
+      "circle": "friend",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P11",
+      "circle": "staff",
+      "links": [
+        {
+          "organisation": "org_home",
+          "link": "supports"
+        }
+      ],
+      "looks_after": [
+        "P02",
+        "P03"
+      ]
+    },
+    {
+      "id": "P12",
+      "circle": "staff",
+      "links": [
+        {
+          "organisation": "org_home",
+          "link": "supports"
+        }
+      ],
+      "looks_after": [
+        "P02",
+        "P03"
+      ]
+    },
+    {
+      "id": "P13",
+      "circle": "sibling",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P14",
+      "circle": "staff",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P15",
+      "circle": "colleague",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P16",
+      "circle": "colleague",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P17",
+      "circle": "colleague",
+      "links": [
+        {
+          "organisation": "org_saffron_loop_logistics",
+          "link": "runs"
+        }
+      ],
+      "looks_after": []
+    },
+    {
+      "id": "P18",
+      "circle": "colleague",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P19",
+      "circle": "partner",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P21",
+      "circle": "colleague",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P22",
+      "circle": "relative",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P23",
+      "circle": "client",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P24",
+      "circle": "colleague",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P25",
+      "circle": "client",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P26",
+      "circle": "vendor",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P27",
+      "circle": "vendor",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P28",
+      "circle": "vendor",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P29",
+      "circle": "vendor",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P30",
+      "circle": "vendor",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P31",
+      "circle": "friend",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P32",
+      "circle": "friend",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P33",
+      "circle": "friend",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P34",
+      "circle": "friend",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P35",
+      "circle": "staff",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P36",
+      "circle": "colleague",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P37",
+      "circle": "colleague",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P39",
+      "circle": "friend",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P40",
+      "circle": "partner",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P42",
+      "circle": "vendor",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P43",
+      "circle": "vendor",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P44",
+      "circle": "vendor",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P45",
+      "circle": "partner",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P50",
+      "circle": "colleague",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P51",
+      "circle": "staff",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P52",
+      "circle": "colleague",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P53",
+      "circle": "friend",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P54",
+      "circle": "friend",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P55",
+      "circle": "parent",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P56",
+      "circle": "child",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P57",
+      "circle": "colleague",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P58",
+      "circle": "colleague",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P59",
+      "circle": "colleague",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P60",
+      "circle": "colleague",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P61",
+      "circle": "colleague",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P62",
+      "circle": "colleague",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P63",
+      "circle": "friend",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P64",
+      "circle": "friend",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P65",
+      "circle": "colleague",
+      "links": [],
+      "looks_after": []
+    },
+    {
+      "id": "P66",
+      "circle": "colleague",
+      "links": [],
+      "looks_after": []
+    }
+  ],
+  "organisations": [
+    {
+      "id": "org_home",
+      "name": "Home",
+      "type": "residence",
+      "side": "home",
+      "role": "owner"
+    },
+    {
+      "id": "org_saffron_loop_logistics",
+      "name": "Saffron Loop Logistics",
+      "type": "company",
+      "side": "work",
+      "role": "owner"
+    }
+  ],
+  "chats": [
+    {
+      "chat_id": "C01",
+      "person": "P01"
+    },
+    {
+      "chat_id": "C02",
+      "organisation": "org_home"
+    },
+    {
+      "chat_id": "C03",
+      "person": "P02"
+    },
+    {
+      "chat_id": "C04",
+      "person": "P04"
+    },
+    {
+      "chat_id": "C05",
+      "person": "P05"
+    },
+    {
+      "chat_id": "C07",
+      "person": "P06"
+    },
+    {
+      "chat_id": "C08",
+      "person": "P07"
+    },
+    {
+      "chat_id": "C09",
+      "person": "P08"
+    },
+    {
+      "chat_id": "C10",
+      "person": "P09"
+    },
+    {
+      "chat_id": "C11",
+      "person": "P10"
+    },
+    {
+      "chat_id": "C12",
+      "person": "P11"
+    },
+    {
+      "chat_id": "C13",
+      "person": "P12"
+    },
+    {
+      "chat_id": "C14",
+      "person": "P13"
+    },
+    {
+      "chat_id": "C15",
+      "person": "P27"
+    },
+    {
+      "chat_id": "C16",
+      "person": "P14"
+    },
+    {
+      "chat_id": "C17",
+      "organisation": "org_saffron_loop_logistics"
+    },
+    {
+      "chat_id": "C18",
+      "organisation": "org_saffron_loop_logistics"
+    },
+    {
+      "chat_id": "C19",
+      "person": "P15"
+    },
+    {
+      "chat_id": "C20",
+      "organisation": "org_saffron_loop_logistics"
+    },
+    {
+      "chat_id": "C21",
+      "person": "P21"
+    },
+    {
+      "chat_id": "C22",
+      "person": "P19"
+    },
+    {
+      "chat_id": "C23",
+      "person": "P22"
+    },
+    {
+      "chat_id": "C24",
+      "person": "P23"
+    },
+    {
+      "chat_id": "C25",
+      "person": "P24"
+    },
+    {
+      "chat_id": "C26",
+      "person": "P25"
+    },
+    {
+      "chat_id": "C27",
+      "person": "P26"
+    },
+    {
+      "chat_id": "C28",
+      "person": "P27"
+    },
+    {
+      "chat_id": "C29",
+      "person": "P28"
+    },
+    {
+      "chat_id": "C30",
+      "person": "P29"
+    },
+    {
+      "chat_id": "C31",
+      "person": "P30"
+    },
+    {
+      "chat_id": "C32",
+      "person": "P31"
+    },
+    {
+      "chat_id": "C33",
+      "person": "P36"
+    },
+    {
+      "chat_id": "C34",
+      "organisation": "org_home"
+    },
+    {
+      "chat_id": "C35",
+      "person": "P60"
+    },
+    {
+      "chat_id": "C36",
+      "person": "P35"
+    },
+    {
+      "chat_id": "C37",
+      "person": "P39"
+    },
+    {
+      "chat_id": "C38",
+      "person": "P31"
+    },
+    {
+      "chat_id": "C39",
+      "person": "P32"
+    },
+    {
+      "chat_id": "C40",
+      "person": "P33"
+    },
+    {
+      "chat_id": "C41",
+      "person": "P34"
+    },
+    {
+      "chat_id": "C42",
+      "person": "P42"
+    },
+    {
+      "chat_id": "C43",
+      "person": "P43"
+    },
+    {
+      "chat_id": "C44",
+      "person": "P44"
+    },
+    {
+      "chat_id": "C45",
+      "person": "P45"
+    },
+    {
+      "chat_id": "C46",
+      "person": "P40"
+    },
+    {
+      "chat_id": "C47",
+      "person": "P01"
+    },
+    {
+      "chat_id": "C48",
+      "person": "P37"
+    },
+    {
+      "chat_id": "C49",
+      "person": "P21"
+    },
+    {
+      "chat_id": "C50",
+      "person": "P22"
+    }
+  ],
+  "goals": [
+    {
+      "title": "Swim 3 mornings a week (Mon, Wed, Fri)",
+      "area": "health",
+      "type": "habit",
+      "horizon": "3mo",
+      "evidence": [
+        "M00016"
+      ]
+    },
+    {
+      "title": "Japan family trip in April 2027",
+      "area": "experiences",
+      "type": "milestone",
+      "horizon": "3yr",
+      "evidence": [
+        "M00045",
+        "M00212"
+      ]
+    },
+    {
+      "title": "Build a 1 crore investment corpus",
+      "area": "finances",
+      "type": "milestone",
+      "horizon": "3yr",
+      "evidence": [
+        "M00053",
+        "M00252"
+      ]
+    },
+    {
+      "title": "Fully renovate the Alibaug house before the next monsoon",
+      "area": "home",
+      "type": "milestone",
+      "horizon": "1yr",
+      "evidence": [
+        "M00090",
+        "M00303"
+      ]
+    },
+    {
+      "title": "Plan a surprise 40th birthday party for Priya",
+      "area": "experiences",
+      "type": "milestone",
+      "horizon": "3mo",
+      "evidence": [
+        "M00122",
+        "M00235"
+      ]
+    },
+    {
+      "title": "Earn a Private Pilot Licence in 5 years",
+      "area": "self",
+      "type": "milestone",
+      "horizon": "5yr",
+      "evidence": [
+        "M00127",
+        "M00340"
+      ]
+    },
+    {
+      "title": "Aarav to make the U-14 district cricket squad",
+      "area": "kids",
+      "type": "milestone",
+      "horizon": "1yr",
+      "evidence": [
+        "M00073",
+        "M00274"
+      ]
+    }
+  ],
+  "open_loops": [
+    {
+      "title": "Send revised pricing deck to Freshkart",
+      "type": "commitment",
+      "owner": "ME",
+      "chat_id": "C17",
+      "source_msg": "M00163",
+      "due": "2026-09-23",
+      "status": "open",
+      "closed_by": null,
+      "help": {
+        "action": "assist",
+        "next_step": "Send revised pricing deck to Freshkart",
+        "needs_yes": true
+      }
+    },
+    {
+      "title": "Book Alibaug ferry for Oct 3 weekend",
+      "type": "question",
+      "owner": "ME",
+      "chat_id": "C01",
+      "source_msg": "M00172",
+      "due": "2026-10-03",
+      "status": "done",
+      "closed_by": "M00173"
+    },
+    {
+      "title": "Decide location for Aarav's birthday party",
+      "type": "question",
+      "owner": "ME",
+      "chat_id": "C01",
+      "source_msg": "M00193",
+      "due": "2026-09-22",
+      "status": "done",
+      "closed_by": "M00196"
+    },
+    {
+      "title": "Call plumber for kitchen sink",
+      "type": "commitment",
+      "owner": "P01",
+      "chat_id": "C01",
+      "source_msg": "M00345",
+      "due": "2026-10-01",
+      "status": "open",
+      "closed_by": null,
+      "help": {
+        "action": "leave",
+        "reason": "Between Arjun and his wife; a reminder would only annoy"
+      }
+    },
+    {
+      "title": "Send guest list for Priya's party to Neha",
+      "type": "followup",
+      "owner": "ME",
+      "chat_id": "C08",
+      "source_msg": "M00260",
+      "due": "2026-09-27",
+      "status": "open",
+      "closed_by": null,
+      "help": {
+        "action": "leave",
+        "reason": "Personal: family or friends, not the assistant's to push"
+      }
+    },
+    {
+      "title": "Talk to Dr Shah's assistant about Papa's OT date",
+      "type": "commitment",
+      "owner": "P07",
+      "chat_id": "C08",
+      "source_msg": "M00324",
+      "due": null,
+      "status": "open",
+      "closed_by": null,
+      "help": {
+        "action": "leave",
+        "reason": "Personal: family or friends, not the assistant's to push"
+      }
+    },
+    {
+      "title": "Submit parking sticker forms",
+      "type": "commitment",
+      "owner": "ME",
+      "chat_id": "C33",
+      "source_msg": "M00192",
+      "due": "2026-09-23",
+      "status": "dropped",
+      "closed_by": "M00204"
+    },
+    {
+      "title": "Fix follow up appointment with Dr Shah for Papa",
+      "type": "followup",
+      "owner": "ME",
+      "chat_id": "C04",
+      "source_msg": "M00161",
+      "due": "2026-09-25",
+      "status": "done",
+      "closed_by": "M00184"
+    },
+    {
+      "title": "Do online bank KYC update for Papa",
+      "type": "commitment",
+      "owner": "ME",
+      "chat_id": "C04",
+      "source_msg": "M00287",
+      "due": "2026-09-27",
+      "status": "open",
+      "closed_by": null,
+      "help": {
+        "action": "leave",
+        "reason": "Personal: family or friends, not the assistant's to push"
+      }
+    },
+    {
+      "title": "Check tickets for Ludhiana Diwali trip",
+      "type": "question",
+      "owner": "ME",
+      "chat_id": "C05",
+      "source_msg": "M00348",
+      "due": null,
+      "status": "open",
+      "closed_by": null,
+      "help": {
+        "action": "leave",
+        "reason": "Personal: family or friends, not the assistant's to push"
+      }
+    },
+    {
+      "title": "Send advance tax computation for Q2",
+      "type": "followup",
+      "owner": "P26",
+      "chat_id": "C27",
+      "source_msg": "M00203",
+      "due": "2026-09-28",
+      "status": "open",
+      "closed_by": null,
+      "help": {
+        "action": "leave",
+        "reason": "A vendor is handling it"
+      }
+    },
+    {
+      "title": "Check and pay Q2 advance tax before 15th",
+      "type": "followup",
+      "owner": "ME",
+      "chat_id": "C27",
+      "source_msg": "M00306",
+      "due": null,
+      "status": "open",
+      "closed_by": null,
+      "help": {
+        "action": "remind",
+        "remind_at": "2026-10-05T10:00:00+05:30"
+      }
+    },
+    {
+      "title": "Submit volunteer form for Annual Day logistics",
+      "type": "commitment",
+      "owner": "ME",
+      "chat_id": "C35",
+      "source_msg": "M00179",
+      "due": "2026-09-30",
+      "status": "done",
+      "closed_by": "M00258"
+    },
+    {
+      "title": "Decide lease renewal duration for Surat godown",
+      "type": "question",
+      "owner": "ME",
+      "chat_id": "C23",
+      "source_msg": "M00214",
+      "due": null,
+      "status": "done",
+      "closed_by": "M00222"
+    },
+    {
+      "title": "Share SLA draft for Pune-Nashik lane",
+      "type": "followup",
+      "owner": "ME",
+      "chat_id": "C24",
+      "source_msg": "M00327",
+      "due": "2026-10-01",
+      "status": "open",
+      "closed_by": null,
+      "help": {
+        "action": "assist",
+        "next_step": "Draft the SLA for the new Pune-Nashik lane and share with Sandeep",
+        "needs_yes": true
+      }
+    },
+    {
+      "title": "Approve Aarav for Kunal's sleepover on Saturday",
+      "type": "question",
+      "owner": "ME",
+      "chat_id": "C03",
+      "source_msg": "M00376",
+      "due": "2026-10-03",
+      "status": "open",
+      "closed_by": null,
+      "help": {
+        "action": "leave",
+        "reason": "Personal: family or friends, not the assistant's to push"
+      }
+    },
+    {
+      "title": "Raise BuildCo September invoice before 25th",
+      "type": "followup",
+      "owner": "P17",
+      "chat_id": "C20",
+      "source_msg": "M00234",
+      "due": "2026-09-25",
+      "status": "done",
+      "closed_by": "M00253"
+    },
+    {
+      "title": "Order 500 visiting cards for Tarun and Meghna",
+      "type": "commitment",
+      "owner": "ME",
+      "chat_id": "C29",
+      "source_msg": "M00356",
+      "due": "2026-10-08",
+      "status": "open",
+      "closed_by": null,
+      "help": {
+        "action": "remind",
+        "remind_at": "2026-10-08T09:00:00+05:30"
+      }
+    },
+    {
+      "title": "Enrol Nikhil for November ground school batch",
+      "type": "commitment",
+      "owner": "P45",
+      "chat_id": "C45",
+      "source_msg": "M00340",
+      "due": "2026-11-07",
+      "status": "done",
+      "closed_by": "M00341"
+    },
+    {
+      "title": "Send revised revenue-share terms for Diwali capacity",
+      "type": "followup",
+      "owner": "P40",
+      "chat_id": "C46",
+      "source_msg": "M00386",
+      "due": "2026-10-06",
+      "status": "open",
+      "closed_by": null,
+      "help": {
+        "action": "assist",
+        "next_step": "Follow up with Deepak Nair for the revised revenue-share terms by Tuesday",
+        "needs_yes": true
+      }
+    },
+    {
+      "title": "Send passport copies for Japan visa file",
+      "type": "followup",
+      "owner": "ME",
+      "chat_id": "C44",
+      "source_msg": "M00211",
+      "due": "2026-09-25",
+      "status": "done",
+      "closed_by": "M00265"
+    },
+    {
+      "title": "Decide on second outlet in Khar at 1.8L rent",
+      "type": "question",
+      "owner": "ME",
+      "chat_id": "C22",
+      "source_msg": "M00364",
+      "due": "2026-10-09",
+      "status": "open",
+      "closed_by": null,
+      "help": {
+        "action": "remind",
+        "remind_at": "2026-10-09T09:00:00+05:30"
+      }
+    },
+    {
+      "title": "Transfer advance of 25k to Tapas Da",
+      "type": "commitment",
+      "owner": "ME",
+      "chat_id": "C31",
+      "source_msg": "M00242",
+      "due": "2026-09-25",
+      "status": "open",
+      "closed_by": null,
+      "help": {
+        "action": "remind",
+        "remind_at": "2026-10-05T10:00:00+05:30"
+      }
+    },
+    {
+      "title": "Get signed PO for Nashik route from finance",
+      "type": "followup",
+      "owner": "P24",
+      "chat_id": "C25",
+      "source_msg": "M00188",
+      "due": "2026-09-25",
+      "status": "open",
+      "closed_by": null,
+      "help": {
+        "action": "assist",
+        "next_step": "Follow up with Ritu Mehra on the signed PO for Nashik route",
+        "needs_yes": true
+      }
+    },
+    {
+      "title": "Send car for servicing",
+      "type": "question",
+      "owner": "ME",
+      "chat_id": "C13",
+      "source_msg": "M00318",
+      "due": null,
+      "status": "open",
+      "closed_by": null,
+      "help": {
+        "action": "leave",
+        "reason": "Staff handle this; Arjun does not need a nudge"
+      }
+    },
+    {
+      "title": "Drop Mrs Kulkarni's parcel to Andheri via driver",
+      "type": "followup",
+      "owner": "ME",
+      "chat_id": "C48",
+      "source_msg": "M00272",
+      "due": "2026-09-27",
+      "status": "done",
+      "closed_by": "M00275"
+    },
+    {
+      "title": "Send September invoice to Vikas BuildCo",
+      "type": "followup",
+      "owner": "ME",
+      "chat_id": "C26",
+      "source_msg": "M00232",
+      "due": "2026-09-25",
+      "status": "open",
+      "closed_by": null,
+      "help": {
+        "action": "remind",
+        "remind_at": "2026-10-05T10:00:00+05:30"
+      }
+    },
+    {
+      "title": "Repair leaking bedroom AC on Saturday",
+      "type": "commitment",
+      "owner": "P29",
+      "chat_id": "C30",
+      "source_msg": "M00248",
+      "due": "2026-09-26",
+      "status": "open",
+      "closed_by": null,
+      "help": {
+        "action": "leave",
+        "reason": "A vendor is handling it"
+      }
+    },
+    {
+      "title": "Transfer advance of 25k to Tapas Da",
+      "type": "commitment",
+      "owner": "ME",
+      "chat_id": "C31",
+      "source_msg": "M00238",
+      "due": "2026-09-25",
+      "status": "open",
+      "closed_by": null,
+      "help": {
+        "action": "remind",
+        "remind_at": "2026-10-05T10:00:00+05:30"
+      }
+    }
+  ]
+}

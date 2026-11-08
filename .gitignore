@@ -1,0 +1,9 @@
+# The challenge data stays on your machine. Never commit it.
+data/
+*.zip
+usage.jsonl
+output.json
+.env
+__pycache__/
+.llm_cache/
+llm_loops_debug.json
